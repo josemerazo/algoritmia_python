@@ -8,7 +8,7 @@ por el usuario que sean múltiplos de 3
 - Se deberá mostrar cuantos números primos ingresó el 
 usuario
 """
-def esPrimo(numero):
+
 def esPrimo(numero):
     contador = 0
     for i in range(1,numero+1):
